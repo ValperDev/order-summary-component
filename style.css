@@ -115,6 +115,7 @@ img {
 .card__plan-container {
     display: flex;
     flex-direction: column;
+    justify-content: center;
     gap: .15em;
 }
 
